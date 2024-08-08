@@ -9,7 +9,6 @@ public class MultiDimensionalArray {
         int marks[][] = new int[4][3];
 
         int studensMarks[][] = {
-
                 {12, 23, 33},
                 {33, 56, 45},
                 {34, 76, 73},
